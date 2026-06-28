@@ -253,10 +253,6 @@ Rice / Cotton Prediction
 NDVI-Rice-and-Cotton-Crop-Classification/
 │
 ├── NDVI Rice and Cotton Crop Classification.ipynb
-├── dataset/
-├── visualizations/
-├── trained_models/
-├── results/
 └── README.md
 ```
 
